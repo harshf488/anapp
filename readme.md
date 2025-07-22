@@ -57,7 +57,7 @@
   .tech-section {
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
+/*     flex-wrap: wrap; */
     gap: 15px;
     margin: 25px 0;
   }
@@ -67,9 +67,10 @@
 
 ### 🛠️ Tech Stack
 
+<div>
 <div align="center">
-
-#### 🌈 Frontend Development
+🌈 Frontend Development
+</div>
 <div class="tech-section">
   <div class="tech-item">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
@@ -109,7 +110,7 @@
   </div>
 </div>
 
-#### 🏗️ Backend Development
+<div align="center"> 🏗️ Backend Development</div>
 <div class="tech-section">
   <div class="tech-item">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
@@ -133,7 +134,7 @@
   </div>
 </div>
 
-#### 🗃️ Databases
+<div align="center">🗃️ Databases</div>
 <div class="tech-section">
   <div class="tech-item">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
@@ -146,7 +147,7 @@
  
 </div>
 
-#### ⚙️ Tools & Platforms
+<div align="center"> ⚙️ Tools & Platforms</div>
 <div class="tech-section">
   <div class="tech-item">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
@@ -196,8 +197,6 @@
 
 
 ### 📫 Let's Connect
-
-
 
 <p align="center">
   <table align="center">
